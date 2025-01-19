@@ -7,7 +7,7 @@
 project, inspired by the `TidyTuesday` project. Following is the general
 workflow:
 
-- Propose a 15-day project shiny app project
+- Propose a 15-day shiny app project
   [here](https://github.com/durraniu/shiny-meetings/discussions/3)  
 - Choose a [TidyTuesday
   dataset](https://github.com/rfordatascience/tidytuesday) if it is a
