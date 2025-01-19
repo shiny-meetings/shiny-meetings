@@ -14,7 +14,7 @@ workflow:
   data-driven project  
 - First 2 days:
   - Brainstorm on the features and do initial wireframing. You may use
-    AI tools such as [shiny
+    AI tools such as [tldraw](https://www.tldraw.com/), [shiny
     assistant](https://gallery.shinyapps.io/assistant/#) or [ploomber AI
     editor](https://editor.ploomber.io/)  
   - Choose the framework to use: Just shiny, golem, rhino, shiny +

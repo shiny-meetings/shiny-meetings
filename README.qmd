@@ -10,7 +10,7 @@ format: gfm
 -   Propose a 15-day shiny app project [here](https://github.com/durraniu/shiny-meetings/discussions/3)\
 -   Choose a [TidyTuesday dataset](https://github.com/rfordatascience/tidytuesday) if it is a data-driven project\
 -   First 2 days:
-    -   Brainstorm on the features and do initial wireframing. You may use AI tools such as [shiny assistant](https://gallery.shinyapps.io/assistant/#) or [ploomber AI editor](https://editor.ploomber.io/)\
+    -   Brainstorm on the features and do initial wireframing. You may use AI tools such as [tldraw](https://www.tldraw.com/), [shiny assistant](https://gallery.shinyapps.io/assistant/#) or [ploomber AI editor](https://editor.ploomber.io/)\
     -   Choose the framework to use: Just shiny, golem, rhino, shiny + plumber, shiny + ambiorix + htmx, etc.\
 -   First meeting to discuss the features and UI\
 -   Next 5 days: Develop the app. Each participant chooses the stuff to work on solo or in a pair. This can be work on theming, layout, functions, modules, APIs, database, etc.\
@@ -27,5 +27,5 @@ format: gfm
 ## Projects
 
 | \# | Title | Description | Repo |
-|----|----|----|----|
+|------------------|------------------|------------------|------------------|
 | 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo Link](https://github.com/shiny-meetings/equipmentValuation) |
