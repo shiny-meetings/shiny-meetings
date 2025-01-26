@@ -42,4 +42,4 @@ workflow:
 
 | \# | Title | Description | Repo |
 |----|----|----|----|
-| 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo Link](https://github.com/shiny-meetings/equipmentValuation) |
+| 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo Link](https://github.com/durraniu/equipmentValuation) |
