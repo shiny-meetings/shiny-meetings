@@ -32,14 +32,16 @@ workflow:
 - Final 5 days: Deploy. This will likely involve using containers and
   scaling them. golem and rhino will be helpful. Also, faucet.
 
-Projects start on Wednesdays with 2 meetings on Fridays.
+Projects start on Wednesdays with meetings on Fridays. We meet via Zoom
+(links are provided in the [dslc slack
+channel](https://dslcio.slack.com/archives/C08A52V98TY)).
 
 ## How to Participate?
 
 - Project details will be posted on social media
 - You may participate at any time by cloning a project repo and doing a
   pull request
-- To propose ideas for a new project
+- Propose ideas for a new project
   [here](https://github.com/durraniu/shiny-meetings/discussions/3)
 
 ## Projects
