@@ -33,13 +33,13 @@ workflow:
   scaling them. golem and rhino will be helpful. Also, faucet.
 
 Projects start on Wednesdays with meetings on Fridays. We meet via Zoom
-(links are provided in the [dslc slack
-channel](https://dslcio.slack.com/archives/C08A52V98TY)).
+(links are provided in the DSLC [slack channel](#0)). If you’re not a
+member of DSLC, [join here](https://dslc.io/join).
 
 ## How to Participate?
 
-- Project details will be posted on social media
-- You may participate at any time by cloning a project repo and doing a
+- Project details will be posted on social media and in the table below
+- You may participate at any time by forking a project repo and doing a
   pull request
 - Propose ideas for a new project
   [here](https://github.com/durraniu/shiny-meetings/discussions/3)
@@ -49,6 +49,6 @@ channel](https://dslcio.slack.com/archives/C08A52V98TY)).
 | \# | Title | Description | Repo | Deployment |
 |----|----|----|----|----|
 | 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo Link](https://github.com/shiny-meetings/equipmentValuation) | App link |
-| 2 | Posit Conf Talks Explorer | An app to explore and watch talks from Posit Conf 2024 |  |  |
+| 2 | Posit Conf Talks Explorer | An app to explore and watch talks from Posit Conf 2024 | [GitHub Repo Link](https://github.com/shiny-meetings/pctalks) | [App link](https://umair.shinyapps.io/pctalks/) |
 | 3 | Roads with same name | An app to find all the roads with the same name in North America. Tell a story of common things and differences using {mapgl} storytelling |  |  |
 | 4 | stoRytime with AI | An app to create and illustrate stories with AI models. With quarto revealjs and human-like AI voiceover, an immersive storytelling experience can be created |  |  |
