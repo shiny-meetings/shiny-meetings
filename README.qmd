@@ -31,7 +31,8 @@ Projects start on Wednesdays with meetings on Fridays. We meet via Zoom (links a
 
 | \# | Title | Description | Repo | Deployment |
 |---------------|---------------|---------------|---------------|---------------|
-| 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo Link](https://github.com/shiny-meetings/equipmentValuation) | App link |
-| 2 | Posit Conf Talks Explorer | An app to explore and watch talks from Posit Conf 2024 | [GitHub Repo Link](https://github.com/shiny-meetings/pctalks) | [App link](https://umair.shinyapps.io/pctalks/) |
-| 3 | Roads with same name | An app to find all the roads with the same name in North America. Tell a story of common things and differences using {mapgl} storytelling |  |  |
-| 4 | stoRytime with AI | An app to create and illustrate stories with AI models. With quarto revealjs and human-like AI voiceover, an immersive storytelling experience can be created |  |  |
+| 1 | Equipment Valuation tool | A tool to plan construction equipment prices in auctions or estimating the value of a machine | [GitHub Repo](https://github.com/shiny-meetings/equipmentValuation) | App link |
+| 2 | Posit Conf Talks Explorer | An app to explore and watch talks from Posit Conf 2024 | [GitHub Repo](https://github.com/shiny-meetings/pctalks) | [App](https://umair.shinyapps.io/pctalks/) |
+| 3 | Roads with same name | An app to find all the roads with the same name in North America. Tell a story of common things and differences using {mapgl} storytelling | [GitHub Repo](https://github.com/shiny-meetings/road_names) | [App](https://01955388-5113-2f88-8bef-76b590a47ee7.share.connect.posit.cloud/) |
+| 4 | Create and package branding | Use LLMs to create and package `_brand.yml` file and `ggplot2` themes for consistent branding across projects | [GitHub Repo](https://github.com/shiny-meetings/create_branding) |  |
+| 5 | stoRytime with AI | An app to create and illustrate stories with AI models. With quarto revealjs and human-like AI voiceover, an immersive storytelling experience can be created |  |  |
